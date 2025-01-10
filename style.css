@@ -1,0 +1,29 @@
+body {
+    background: url('https://via.placeholder.com/150') no-repeat center center fixed; /* Фон у вигляді картинки */
+    background-size: cover; /* Покриває весь екран */
+    font-family: 'Arial', sans-serif;
+    color: gray;
+}
+
+/* Стилі для заголовків */
+h1, h2, h3 {
+    text-align: center;
+    font-size: 3em;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Стилі для основного контенту */
+p {
+    margin: 20px;
+    line-height: 1.6;
+    font-size: 1.2em;
+}
+
+a {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
