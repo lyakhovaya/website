@@ -3,6 +3,8 @@ layout: default
 title: Welcome to My Project
 ---
 
+<link rel="stylesheet" href="style.css">
+
 # Welcome to My Project 🚀
 
 Welcome to the **[My Project](#)** landing page! We're excited to share our journey with you. This project is designed to provide innovative solutions and help you accomplish your goals with ease.
